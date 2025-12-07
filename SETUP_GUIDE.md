@@ -3,7 +3,7 @@
 ## Quick Start Guide
 
 ### Prerequisites
-- Java Development Kit (JDK) 17 or later
+- Java Development Kit (JDK) 17
 - Apache Maven 3.6 or later
 - MySQL Server 8.0 or later
 - Git (optional)
